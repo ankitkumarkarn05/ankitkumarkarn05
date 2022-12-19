@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Frontend and Backend Design**
 
-- 👨‍💻 All of my projects are available [@ankitkumarkarn05](github.com/ankitkumarkarn05)
+- 👨‍💻 All of my projects are available [@ankitkumarkarn05]([github.com/ankitkumarkarn05](https://github.com/ankitkumarkarn05?tab=repositories))
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 

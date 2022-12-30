@@ -2,37 +2,18 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Ankit kumar karn <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate FullStack developer and a student from India.</h3>
+<h1 align="center">Hi, I'm Ankit kumar karn <img width="30px"></h1>
+<h3 font-size="20" align="center"> A passionate Front-end Web developer </h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **React Framework**
-
-- 🤝 I’m looking for help with **Frontend and Backend Design**
-
 - 👨‍💻 All of my projects are available [@ankitkumarkarn05](https://github.com/ankitkumarkarn05?tab=repositories)
-
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
 
 ---
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -223,35 +204,35 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://dev.to/example" target="_blank">
+    <a  href="#" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
     </a>
-    <a href="https://medium.com/@example" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
-    <a href="https://codepen.io/@example" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
     </a>
   </div>
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="#" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
-    <a href="https://dribbble.com/example" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
     </a>
   </div>
   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
+    <a  href="#" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   </div>
@@ -260,31 +241,15 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/example" target="_blank">
+  <a  href="#" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
 
 ----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
-Last Edited on: 09/09/2021
+Last Edited on: 01/01/2023
